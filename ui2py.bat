@@ -1,0 +1,1 @@
+C:\PythonSolution\AI\.venv\Scripts\pyuic6 ai.ui -o ai.py
